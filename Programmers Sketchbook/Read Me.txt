@@ -1,0 +1,1 @@
+This software requiers sqlite to run it was created using sqlite 3.20.0
